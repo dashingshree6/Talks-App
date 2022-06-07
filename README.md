@@ -1,3 +1,3 @@
 # Talks-App
 
-It is a chatting app created with
+It is a chatting app created with the 
